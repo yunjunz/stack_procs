@@ -3,7 +3,7 @@
 s1StackRun.py
 cskStackRun.py
 
-2) offset field estimation using GPU ampor
+2) offset field estimation using GPU ampcor
 
 cuDenseOffsets.py
 cuDenseOffsets_gdal.py
